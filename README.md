@@ -19,7 +19,7 @@
 </p>
 <h3 align="left">Software:</h3>
 <p align="left">
-<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/845ce3bb-5a06-4a5e-90b4-1b4705057c27.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" alt="stata" width="40" height="40"/> </a>
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://www.karlancer.com/api/file/seoContents/stata.png" alt="stata" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.J5L56wG7rar6KiGZ-zH0zQHaE8?rs=1&pid=ImgDetMain" alt="R" width="40" height="40"/> </a>
 <a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.technologyadvice.com/wp-content/uploads/2021/10/sas.png" alt="SAS" width="40" height="40"/> </a>
