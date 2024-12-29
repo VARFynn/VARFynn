@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Fynn Lohre</h1>
 
-<!--
-**VARFynn/VARFynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alter = "coding" align = "right" width = "450" src = "https://cdn.dribbble.com/users/1365253/screenshots/11419536/media/c871d8a271fa0c77b5ea9c86d155c56d.gif" >
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VARFynn&label=Profile%20views&color=0e75b6&style=flat" alt="plabon-dutta" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently a PhD Fellow in Economics at Aarhus BSS
+
+- 📫 How to reach me **VARFynn@gmail.com**
+
+- 👨‍💻 You can find out more about me on my [Academic Website](https://fynn-lohre.com)
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fynn-lohre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fynn-Lohre-45b4651b0" height="30" width="40" /></a>
+</p>
+<h3 align="left">Software:</h3>
+<p align="left">
+<a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/845ce3bb-5a06-4a5e-90b4-1b4705057c27.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3" alt="stata" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.J5L56wG7rar6KiGZ-zH0zQHaE8?rs=1&pid=ImgDetMain" alt="R" width="40" height="40"/> </a>
+<a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.technologyadvice.com/wp-content/uploads/2021/10/sas.png" alt="SAS" width="40" height="40"/> </a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://pnghq.com/wp-content/uploads/latex-logo-free-unlimited-png.png" alt="LaTeX" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/542135.jpg" alt="SQL" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.tWFNEU2_ZTCIQW97tH0DoAHaFb?rs=1&pid=ImgDetMain" alt="Matlab" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Ocf9JVBsBceBOuzwQ0sn2AHaFj?rs=1&pid=ImgDetMain" alt="VBA" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://pbcdn1.podbean.com/imglogo/image-logo/1769310/powershell.png" alt="PowerShell" width="40" height="40"/> </a>
+</p>
