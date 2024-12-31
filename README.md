@@ -2,7 +2,7 @@
 
 <img alter = "coding" align = "right" width = "450" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VARFynn&label=Profile%20views&color=0e75b6&style=flat" alt="plabon-dutta" /> </p>
+<p align="left"> <img src="https://fynn-lohre.com/images/profile.png" /> </p>
 
 - 🎓 I'm currently a PhD Fellow in Economics at Aarhus BSS
 
