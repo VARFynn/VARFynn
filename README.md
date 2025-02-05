@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Fynn Lohre</h1>
 
-<img alter = "me" align = "right" width = "450" src = "https://fynn-lohre.com/images/profile.png" >
+<img alter = "me" align = "right" width = "450" src = "https://unread.today/files/969a1aed-77a4-45e9-b7b7-3ee2709aaf31/b982cc43ae0d623f7485d2126231c951.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VARFynn&label=Profile%20views&color=0e75b6&style=flat" alt="plabon-dutta" /> </p>
 
@@ -21,11 +21,10 @@
 <p align="left">
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> <img src="https://www.karlancer.com/api/file/seoContents/stata.png" alt="stata" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.J5L56wG7rar6KiGZ-zH0zQHaE8?rs=1&pid=ImgDetMain" alt="R" width="40" height="40"/> </a>
-<a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.technologyadvice.com/wp-content/uploads/2021/10/sas.png" alt="SAS" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R" width="45" height="40"/> </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://pnghq.com/wp-content/uploads/latex-logo-free-unlimited-png.png" alt="LaTeX" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/542135.jpg" alt="SQL" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.tWFNEU2_ZTCIQW97tH0DoAHaFb?rs=1&pid=ImgDetMain" alt="Matlab" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Ocf9JVBsBceBOuzwQ0sn2AHaFj?rs=1&pid=ImgDetMain" alt="VBA" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://pbcdn1.podbean.com/imglogo/image-logo/1769310/powershell.png" alt="PowerShell" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://geekhacker.ru/wp-content/uploads/2021/03/sql_logo.png" alt="SQL" width="45" height="40"/> </a>
+<a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1462/1462696.png" alt="SAS" width="45" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://logosmarken.com/wp-content/uploads/2020/12/MATLAB-Logo.png" alt="Matlab" width="60" height="40"/> </a>
+ </a>
 </p>
