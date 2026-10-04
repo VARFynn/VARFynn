@@ -14,7 +14,7 @@
 
 Most of the code on this profile was written **before the current wave of AI-assisted programming** and is kept here partly as a record of that work.
 
-Much of my current research code, data infrastructure, and ongoing projects live on institutional or private servers rather than GitHub. Accordingly, this profile should be viewed less as a complete representation of my current workflow and more as a **public appendix** to my academic work.
+Much of my current research code, data infrastructure, and ongoing projects live on institutional or private servers rather than GH. Hence, this profile should be viewed less as a complete representation of my current workflow and more as a **public appendix** to my academic work.
 
 Going forward, I also intend to use this space for code, tools, replications, and other material that may be useful as a **public good** for researchers and anyone else who happens to find it helpful.
 
@@ -29,7 +29,7 @@ Going forward, I also intend to use this space for code, tools, replications, an
   </a>
 </p>
 
-### Software
+### Software (once very important)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge&logoColor=white" alt="Stata">
@@ -40,3 +40,18 @@ Going forward, I also intend to use this space for code, tools, replications, an
   <img src="https://img.shields.io/badge/SAS-1E4F91?style=for-the-badge&logoColor=white" alt="SAS">
   <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logoColor=white" alt="MATLAB">
 </p>
+
+### 🤖 AI / LLM Workflows 
+
+Beyond individual models, I experiment with and maintain different agentic routines, subagent setups, and coding/research harnesses.
+
+Harnesses / agents: CC · Codex · OpenCode · Hermes Agent
+Model infrastructure: OpenRouter for model routing · Ollama for local and open-source models
+
+I tried -- in best experimental economics fashion -- different setups; including randomization over subagent assignment. As we not know how this will work out for society, I keep it in best ID fashion: 
+
+bersatu kita teguh, bercerai kita runtuh... 
+
+</td>
+</tr>
+</table>
